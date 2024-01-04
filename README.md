@@ -1,7 +1,10 @@
 # Node.js TypeScript + SWC Template
 A Node.js project template using TypeScript with SWC compiler and configured to ES module.
 
+First rename ```config.swcrc``` to ```.swcrc``` and after that following guide
+
 ## Preparation for developing :
+
 1 - Install packages.
 ```bash
 npm i
